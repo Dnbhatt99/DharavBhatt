@@ -8,10 +8,13 @@ In summary, my academic excellence, technical proficiency, and practical experie
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharav-bhatt/) 
+[![Porfolio](https://img.shields.io/badge/-Porfolio-16FEB4?logo=porfolio&logoColor=white)](https://medium.com/@dharav1510)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dharavbhatt/) 
+[![Medium](https://img.shields.io/badge/-Medium-FE7A16?logo=medium&logoColor=white)](https://medium.com/@dharav1510)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DharavBhatt)
 [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dv.bhatt.75)
-[![Medium](https://img.shields.io/badge/-Medium-FE7A16?logo=medium&logoColor=white)](https://medium.com/@dharav1510)
+
+
 
 # 💻 Tech Stack:
 

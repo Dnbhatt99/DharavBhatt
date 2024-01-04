@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am an experienced (2 years) Software Engineer, with a Master's degree 👨🏻‍🎓 in Computer Science from the University of Texas at Dallas 🎓 and a Bachelor's degree 📜 in Information Technology from Gujarat Technological University.
+I am an experienced (2 years) Software Engineer, with a Master's degree 👨🏻‍🎓 in Computer Science from the University of Texas at Dallas 🎓 and a Bachelor's degree 📜 in Information Technology from Gujarat Technological University.
 
 My skill set encompasses a diverse array, including proficiency in Python, Java, C, C#, and Golang. I excel in frontend technologies, leveraging ReactJS, Redux, and JavaScript, and I possess hands-on experience with frameworks like Spring and NodeJs. My expertise extends to working with databases like MongoDB, MySQL, and PostgreSQL, and I am well-versed in AWS, handling services such as EC2, DynamoDB, RDS, Aurora, RedisRoute53, Lambda, ALBs, NLBs, IAM, Systems Manager & CloudWatch, and employing CI/CD tool such as Jenkins VCS such as GitLab. Certified as an AWS Cloud Practitioner, I am committed to continuous learning and staying at the forefront of technology. My volunteer experience as a Project Management Symposium Event Coordinator underscores my ability to leverage technical expertise in real-world scenarios.
 
